@@ -21,9 +21,11 @@
 
 ### ML
 *  https://www.coursera.org/learn/machine-learning
+* https://docs.databricks.com/applications/deep-learning/spark-integration.html
 
 ### Pytorch
 * https://pytorch.org/
+* https://docs.databricks.com/applications/deep-learning/pytorch.html
 
 ### GraphQL
 * https://graphql.org/
