@@ -15,3 +15,6 @@
 ### Tools
 * https://www.jhipster.tech/
 
+### Pytorch
+* https://pytorch.org/
+
