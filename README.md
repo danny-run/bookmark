@@ -48,5 +48,32 @@
 * https://docs.docker.com/engine/reference/commandline/docker/
 * https://jenkins.io/doc/book/pipeline
 
+### Security
+* https://www.ssllabs.com/
+* https://www.exploit-db.com/
+* https://cve.mitre.org/
+* https://haveibeenpwned.com/
+* https://medium.com/@nielsvanderveer/xss-and-csrf-why-should-you-care-343bb38cfbae
+* https://www.hackthissite.org/
+* https://www.hackthebox.eu/
+* https://www.vulnhub.com/
+* https://ctftime.org/
+* http://blog.minimum.se/2017/02/20/cross-origin-resource-sharing.html
+* https://excess-xss.com/
+* http://sqlmap.org/
+* https://github.com/zaproxy/zaproxy
+* https://www.cybrary.it/
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418
+* https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en
+
+### Trimble
+* https://repl.it/
+* https://jwt.io/
+* https://jsoneditoronline.org/
+* https://www.diffchecker.com/diff
+* https://www.websequencediagrams.com/
+
+
+
 
 
